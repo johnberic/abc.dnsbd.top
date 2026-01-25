@@ -12,8 +12,8 @@ HYSTERIA_TYPE='default';
 PORT_VLESS='442';
 API_LINK='https://abc.dnsbd.top/api/authentication';
 API_KEY='@Tknetwork';
-DOMAIN=r3sv.dnsbd.top
-NS=mbni.dnsbd.top
+DOMAIN=abth.dnsbd.top
+NS=xstz.dnsbd.top
 timedatectl set-timezone Asia/Riyadh
 if [[ $(grep "nogroup" /etc/group) ]]; then
     cert_group="nogroup"
